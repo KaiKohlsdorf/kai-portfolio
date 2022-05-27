@@ -4,18 +4,22 @@
 
 ## Contributor: Kai Kohlsdorf
 
-## Link Placeholder 
+## <a href="https://kaikohlsdorf.github.io/kai-portfolio/index.html">Kai's Portfolio Hyperlink</a>
 
 ## Technologies Used
 
 *HTML
+
 *CSS
+
 *Markdown
 
 ## Installation
 
 *Clone this repository to your desktop.
+
 *Navigate to the top level of the directory.
+
 *Open kai-portfolio/index.html in your browser.
 
 ## Known Bugs: 
