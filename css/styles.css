@@ -3,11 +3,17 @@
 }
 
 .unimportant {
-  color: red
-  font-style: italic
-  font-weight: bold
+  color: red;
+  font-style: italic;
+  font-weight: bold;
 }
 
 .important {
-  color: blue
+  color: blue;
+}
+
+.highlight {
+  color:rgb(43, 255, 0);
+  font-style: normal;
+  font-size: x-large;
 }
