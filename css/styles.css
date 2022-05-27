@@ -1,0 +1,13 @@
+.box1 {
+  padding: 100px;
+}
+
+.unimportant {
+  color: red
+  font-style: italic
+  font-weight: bold
+}
+
+.important {
+  color: blue
+}
